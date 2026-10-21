@@ -1,0 +1,18 @@
+generated: '2026-10-21'
+method: none
+source:
+- https://zapier.com/apps/graphiq-design/integrations
+- https://zapier.com/apps/graphiq/integrations
+- https://n8n.io/integrations/graphiq-design/
+- https://composio.dev/toolkits/graphiq-design
+- https://monid.ai/tools/graphiq-design
+checked:
+- https://composio.dev/toolkits/graphiq-design
+- https://monid.ai/tools/graphiq-design
+- https://n8n.io/integrations/graphiq-design/
+- https://zapier.com/apps/graphiq-design/integrations
+- https://zapier.com/apps/graphiq/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
